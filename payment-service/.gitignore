@@ -1,0 +1,7 @@
+.env.example
+target/
+*.jar
+*.class
+.idea/
+.vscode/
+*.iml
